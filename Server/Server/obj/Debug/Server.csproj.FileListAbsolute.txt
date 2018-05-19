@@ -1,0 +1,8 @@
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\bin\Debug\Server.exe.config
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\bin\Debug\Server.exe
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\bin\Debug\Server.pdb
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\obj\Debug\Server.exe
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\obj\Debug\Server.pdb
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\bin\Debug\Newtonsoft.Json.xml

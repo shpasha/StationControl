@@ -1,0 +1,12 @@
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\bin\Debug\Client.exe.config
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\bin\Debug\Client.exe
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\bin\Debug\Client.pdb
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\obj\Debug\Client.exe
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\obj\Debug\Client.pdb
+C:\Users\shnyakin.p\Desktop\StationControl\Client\Client\obj\Debug\Client.Form2.resources

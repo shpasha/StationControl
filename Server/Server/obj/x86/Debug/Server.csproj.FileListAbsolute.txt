@@ -1,0 +1,7 @@
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\bin\x86\Debug\Server.exe.config
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\bin\x86\Debug\Server.exe
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\bin\x86\Debug\Server.pdb
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\shnyakin.p\Desktop\StationControl\Server\Server\obj\x86\Debug\Server.pdb
